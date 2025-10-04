@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.flm</groupId>
-	<artifactId>RestaurantManagment</artifactId>
+	<artifactId>UserManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RestaurantManagment</name>
+	<name>UserManagement</name>
 	<description>App to handle restaurant Information</description>
 	<url/>
 	<licenses>
